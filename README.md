@@ -1,5 +1,5 @@
 # Robustness-Testing-of-Facial-Recognition-Algorithms
-THe project undertaken during Defence Reseach and Development Organisation, Ministry of Defence, Govt. of India, summer internship develops attack methods, testing black box and white box adversarial attacks on facial recognition deep learning models, using the celeb_a, lfw and VGG Face datasets.
+The project undertaken during Defence Reseach and Development Organisation, Ministry of Defence, Govt. of India, summer internship develops attack methods, testing black box and white box adversarial attacks on facial recognition deep learning models, using the celeb_a, lfw and VGG Face datasets.
 
 Adversarial Attacks on Facial Recognition Systems
 
