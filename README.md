@@ -43,23 +43,24 @@ CelebA Dataset
 
 LFW (Labeled Faces in the Wild)
 
-Size: 13,000+ face images
-Subjects: 5,749 different individuals
-Usage: Benchmark for face verification tasks
+- Size: 13,000+ face images
+- Subjects: 5,749 different individuals
+- Usage: Benchmark for face verification tasks
 
 VGG Face Dataset
 
-Size: 2.6M+ face images
-Subjects: 2,622 identities
-Usage: Large-scale face recognition training
+- Size: 2.6M+ face images
+- Subjects: 2,622 identities
+- Usage: Large-scale face recognition training
 
 🎯 Attack Methodologies
+
 White-box Attacks
 
-FGSM (Fast Gradient Sign Method): Single-step gradient-based attack
-PGD (Projected Gradient Descent): Iterative gradient-based attack
-C&W Attack: Carlini & Wagner optimization-based attack
-DeepFool: Minimal perturbation attack method
+1. FGSM (Fast Gradient Sign Method): Single-step gradient-based attack
+2. PGD (Projected Gradient Descent): Iterative gradient-based attack
+3. C&W Attack: Carlini & Wagner optimization-based attack
+4. DeepFool: Minimal perturbation attack method
 
 Black-box Attacks
 
